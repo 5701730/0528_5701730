@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>
-
+//원형리스트를 메뉴로 조작하는 프로그램 작성
 typedef int element;
 typedef struct LIstNode {
 	element data;
